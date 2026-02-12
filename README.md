@@ -1,1 +1,1 @@
-# statistics-for-decision-making
+This project focuses on evaluating three years of transactional data for a multi-channel retail company. As the lead Data Analyst, I am using inferential and descriptive statistics to provide management with a clear picture of business health, data reliability, and the efficacy of recent marketing initiatives
